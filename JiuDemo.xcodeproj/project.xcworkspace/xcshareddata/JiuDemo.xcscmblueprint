@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "cc2b7cfc-5630-4751-8ec8-2e2fa389fb08++475" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "cc2b7cfc-5630-4751-8ec8-2e2fa389fb08++475" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "23E853E0-F666-4374-8824-774D275F8023",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "cc2b7cfc-5630-4751-8ec8-2e2fa389fb08++475" : "JiuDemo\/JiuDemo\/%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83%E9%A1%B5\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "JiuDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "JiuDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/120.132.83.236",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "cc2b7cfc-5630-4751-8ec8-2e2fa389fb08++475"
+    }
+  ]
+}
